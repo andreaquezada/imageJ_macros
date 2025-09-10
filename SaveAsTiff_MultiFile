@@ -1,6 +1,6 @@
 /*
  * ImageJ MAcro
- * By Andrea Quezada  @andreaquezadaa 
+ * By Andrea Quezada  andrea.quezada@pm.me 
  * This macro extracts series inside a multi-file (lif, vsi) and saves them as tiff in a separate folder. Optionally, different channels can be saved individually.
 
 * Last edit: 06.01.2020
